@@ -1,2 +1,2 @@
-# my-app2
+# mstock-price-google
 New try on heroku
